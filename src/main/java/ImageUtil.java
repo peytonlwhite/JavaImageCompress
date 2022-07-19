@@ -13,7 +13,7 @@ import java.util.Iterator;
 
 public class ImageUtil {
 
-    static final float MAX_COMPRESSION_SIZE = 2000; //10MB
+    static final float MAX_COMPRESSION_SIZE = 2000; //2MB
 
     public ImageUtil() {
 
